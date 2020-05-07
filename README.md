@@ -15,3 +15,4 @@ city
 state
 country
 shape
+Go to settings into this repo and scroll down to check the website created. 
